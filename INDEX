@@ -1,0 +1,12 @@
+initOPE	                Initalise OPE object
+adjustOPE               Adjust OPE object with simulator
+                          evaluations
+resetOPE                Strip evaluations
+predictOPE              Predict simulator at new inputs
+sampleOPE               Sample simulator at new inputs
+
+Also included:
+
+rmvt                    Multivariate Student-t quantities
+
+Type ?OPE for further information.
